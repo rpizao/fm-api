@@ -1,5 +1,7 @@
 {
   "name": "fm-api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "custom-module": "git+ssh://rpizao@github.com:rpizao/custom-module.git#0.1"
+  }
 }
